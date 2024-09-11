@@ -1,7 +1,7 @@
 # Amazon-Clone
 # Amazon Clone Website
 
-This project is a simple clone of the Amazon website, created by Midhun Manoj. The clone is designed using HTML and CSS, aiming to replicate the visual layout and user interface of the original Amazon site.
+This project is a simple clone of the Amazon website, created by me. The clone is designed using HTML and CSS, aiming to replicate the visual layout and user interface of the original Amazon site.
 
 ## Details
 
